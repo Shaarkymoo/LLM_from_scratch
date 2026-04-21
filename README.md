@@ -11,3 +11,9 @@ This is my attempt to create AI from scratch without using any external librarie
 7. functioning chatbot
 
 **probably will add more steps as complexity in my head increases.
+
+## Mini-Model features
+3 layers in Neural network:
+* layer 1 taking MNIST inputs (784 neurons)
+* layer 2 having 16 neurons
+* layer 3 having 10 neurons, taken as output
